@@ -238,7 +238,7 @@ namespace UnitySteer.Behaviors
         /// <param name="elapsedTime">
         /// How long has elapsed since the last update<see cref="System.Single"/>
         /// </param>
-        private void ApplySteeringForce(float elapsedTime)
+        protected void ApplySteeringForce(float elapsedTime)
         {
             // Euler integrate (per frame) velocity into position
             var acceleration = CalculatePositionDelta(elapsedTime);
