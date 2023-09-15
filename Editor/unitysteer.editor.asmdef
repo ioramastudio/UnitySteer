@@ -1,0 +1,18 @@
+{
+    "name": "UnitySteerEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3a5d2a41915e14fa2879a6877c8552a4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
